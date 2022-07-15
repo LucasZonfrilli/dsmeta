@@ -9,11 +9,11 @@
 		<version>2.7.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dev123</groupId>
+	<groupId>com.devsuperior</groupId>
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmeta</name>
-	<description>Projeto de Vida 123</description>
+	<description>Projeto da Semana Spring React</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -55,7 +55,7 @@
 				<artifactId>maven-resources-plugin</artifactId>
 				<version>3.1.0</version><!--$NO-MVN-MAN-VER$ -->
 			</plugin>
-
+			
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
